@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="searchfield">Search the Database for a Location!</string>
+    <string name="search_database">Search Database</string>
+    <string name="search_notes">Search notes</string>
+    <string name="view_location_database">View Location Database</string>
+    <string name="add_new_location">Add New Location</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="enter_id_of_address_to_update_delete">Enter ID of Address to Update/Delete</string>
+    <string name="address">Address</string>
+    <string name="add_location">Add Location</string>
+    <string name="location_finder">Location Finder</string>
+</resources>
